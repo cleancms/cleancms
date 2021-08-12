@@ -21,13 +21,17 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-query": "^3.16.0",
-    "scss": "^0.2.4"
+    "react-toastify": "^7.0.4",
+    "scss": "^0.2.4",
+    "tailwindcss": "^2.2.7"
   },
   "devDependencies": {
     "@types/node": "^14.14.22",
     "@types/react": "^17.0.5",
     "@types/react-redux": "^7.1.16",
-    "@types/styled-components": "^5.1.9"
+    "@types/styled-components": "^5.1.9",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6"
   },
   "engines": {
     "node": ">=12.x"
